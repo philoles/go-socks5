@@ -1,3 +1,7 @@
+
+change "golang.org/x/net/context" to "context"
+=========
+
 go-socks5 [![Build Status](https://travis-ci.org/armon/go-socks5.png)](https://travis-ci.org/armon/go-socks5)
 =========
 

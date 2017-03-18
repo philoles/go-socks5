@@ -7,7 +7,8 @@ import (
 	"net"
 	"os"
 
-	"golang.org/x/net/context"
+	//"golang.org/x/net/context"
+	"context"
 )
 
 const (
